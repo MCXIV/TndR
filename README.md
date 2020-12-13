@@ -2,6 +2,12 @@
 
 TndR is a python library to see/show uninteresting data of your Tinder conversation.
 
+## The idea
+
+One of my match told me, after I stoped talking, "Well, you're ghosting me". Well, technically yes, but why? Maybe because I'm the only one to carrying this damn conversation.
+
+So, instead of just ghosting that human, I just thought *it could be cool* to actually explain why I was ghosting that kind human.
+
 ## Informations
 
 Matplotlib is the only required library **FOR THE DEMO**.
@@ -30,7 +36,7 @@ from TndR import *
 
 demo.show()
 
-# Will show a graph. with stats. See TndR_ex.png
+# Will show a graph. with stats. of your own .txt file. See TndR_ex.png for an example.
 ```
 
 ## Contributing
