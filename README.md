@@ -38,6 +38,7 @@ demo.show()
 
 # Will show a graph. with stats. of your own .txt file. See TndR_ex.png for an example.
 ```
+![Screenshot](TndR_ex.jpg)
 
 ## Contributing
 
